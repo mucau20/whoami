@@ -13,9 +13,9 @@ I love blending discipline with creativity, and I'm always exploring new ways to
 
 # 🌐 Social Media
 
-- 📸 Instagram: [@unejsi.muca](https://www.instagram.com/muca_u20/)
-- 🐦 Twitter: [@unejsimuca](https://x.com/MucaU20)
-- 🎥 YouTube: [Unejsi Muça](hhttps://www.youtube.com/@mrcode2023)
-- 💼 LinkedIn: [Unejsi Muça](https://www.linkedin.com/in/unejsi-mu%C3%A7a-371165377/)
+- 📸 Instagram: [@unejsi.muca](https://instagram.com/unejsi.muca)
+- 🐦 Twitter: [@unejsimuca](https://twitter.com/unejsimuca)
+- 💻 GitHub: [@unejsimuca](https://github.com/mucau20)
+- 💼 LinkedIn: [Unejsi Muça](https://linkedin.com/in/unejsi-muca)
 
 Feel free to connect with me on any platform!
