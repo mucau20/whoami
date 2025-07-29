@@ -8,5 +8,5 @@ I love blending discipline with creativity, and I'm always exploring new ways to
 
 > "Discipline is doing what needs to be done, even when you don't feel like it."
 
-🔗 Check out my [social media links](./socials.md)
+🔗 Check out my [social media links](https://github.com/mucau20/whoami/blob/main/social.md)
 
